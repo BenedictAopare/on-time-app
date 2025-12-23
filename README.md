@@ -89,3 +89,7 @@ This repository contains the roadmap for ontime. Phases are marked:
 
 If you'd like, I can scaffold the backend Node/Express project next and wire up the health route so you can hit /api/health locally. Which phase should I start with now?
 # on-time-app
+
+## Contributors
+
+- Benedict Aopare (<aoparebenedict1@gmail.com>)
